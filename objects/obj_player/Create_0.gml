@@ -1,6 +1,6 @@
 move_speed = 3.5;
 tilemap = layer_tilemap_get_id("Tiles_Col");
-global.coins = 10;
+global.coins = 5;
 global.hp = 10;
 running = 0;
 energy = 150;
