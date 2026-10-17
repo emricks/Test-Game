@@ -1,0 +1,11 @@
+move_speed = 3.5;
+tilemap = layer_tilemap_get_id("Tiles_Col");
+global.coins = 10;
+global.hp = 10;
+running = 0;
+energy = 150;
+gui_frame = 0;
+gui_speed = 0.16;
+global.gui_active = 0;
+global.inventory = [];
+alarm[1] = 600
